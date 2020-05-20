@@ -1,2 +1,2 @@
-# Unity-Fluid-Template
-A 2D fluid simulation made in Unity.
+# Unity-Github Integration Test
+A teset repository to test Github's integration with Unity.
